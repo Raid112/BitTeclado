@@ -1,6 +1,6 @@
 # BitTeclado - Teclado Musical Interativo
 
-**Disciplina**: FEE-246 — Laboratorio de Sistemas Embarcados
+**Disciplina**: EA801 — Laboratorio de Sistemas Embarcados
 **Instituicao**: FEEC / UNICAMP
 **Plataforma**: BitDogLab V7 (RP2040)
 
